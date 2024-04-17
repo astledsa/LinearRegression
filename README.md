@@ -20,6 +20,7 @@
 ## Technologies Used
 - sklearn == version 1.4.2
 - pandas == version 1.5.3
+- statsmodel == version 0.14.2
 
   
 ## Contact
