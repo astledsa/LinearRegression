@@ -1,4 +1,4 @@
-# Credit Assessment for loan approval
+# Bike sharing 
 > This project centers around the dataset provided, which contains information sales og bikes, and the features that seem to have contributed for the same.
 
 
